@@ -10,6 +10,12 @@
     "@types/node": "^16.11.25",
     "@types/react": "^17.0.39",
     "@types/react-dom": "^17.0.11",
+    "atomic-router": "^0.4.3",
+    "atomic-router-react": "^0.4.3",
+    "compose-function": "^3.0.3",
+    "effector": "^22.2.0",
+    "effector-react": "^22.0.6",
+    "history": "^5.2.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "5.0.0",
@@ -39,5 +45,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/compose-function": "^0.0.30"
   }
 }
